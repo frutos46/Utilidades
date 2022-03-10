@@ -2,6 +2,7 @@
 # Autor: Jose Antonio Frutos
 # Version: v1
 # Creado: 25/02/2022
+# Script: obtiene el último logon de un usuario en un equipo
 ####################################################################################
 
 #Definimos variables
