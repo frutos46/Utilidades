@@ -1,3 +1,11 @@
+--------------------------------------------------------------------------------------------------------------
+-- Autor: Jose Antonio Frutos
+-- Version: v4
+-- Creado: 23/07/2021
+-- Script: obtiene un listado de equipos con el estado de los parches
+---------------------------------------------------------------------------------------------------------------
+
+
 SELECT comTarget.[Name] as Equipo
    -- ,infoBasic.State 
    -- ,[update].SecurityBulletin
