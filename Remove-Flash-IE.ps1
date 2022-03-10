@@ -2,6 +2,7 @@
 # Autor: Jose Antonio Frutos
 # Version: v1
 # Creado: 08/03/2022
+# Script: Desinstala tanto el flash como IE11
 ####################################################################################
 
 
